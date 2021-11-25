@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React-Redux PluralSight**
 
-- 🌱 I’m currently learning **Redux, and eventually Typescript**
+- 🌱 I’m currently learning **Redux, Testing for React and eventually Typescript**
 
 - 💬 Ask me about **react, Javascript, css**
 

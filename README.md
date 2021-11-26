@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **react, Javascript, css**
 
-- 📫 How to reach me **https://www.linkedin.com/in/priya-shah-mirani-a73951197/**
+- 📫 My music curation channel **https://www.soundcloud.com/getting-deeper**
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">How to reach me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/priya-shah-mirani-a73951197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-shah-mirani-a73951197/" height="30" width="40" /></a>
 </p>

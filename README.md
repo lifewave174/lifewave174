@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifewave174&label=Profile%20views&color=0e75b6&style=flat" alt="lifewave174" /> </p>
 
-- 🔭 I’m currently working on **React-Redux PluralSight**
+- 🔭 I’m currently working on a **Crud App with Redux**
 
 - 🌱 I’m currently learning **Redux, Testing for React and eventually Typescript**
 

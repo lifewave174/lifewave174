@@ -1,9 +1,9 @@
 <h1 align="left">Hey! I'm Priya Mirani</h1>
-<p align="left">I am a music curator, avid reader, writer, documentary watcher, gamer, and home chef by night and by the day I am a coder! In the past, I worked professionally as an Operations Manager doing a lot of process troubleshooting with the IT and Data teams, while also feeding my music blog.<br/> Soon I realized that coding is a more rewarding and interesting job for me, and decided to switch. Thanks to the internet and an intensive year long web development course at DCI Berlin, funded by the German government, I got the privilege and the opportunity to learn with many others like me, and learn from many others before me. On this Github, you will find many (but not the only) projects I have created in my coding journey.</p>
+<p align="left">I am a music curator, avid reader, writer, documentary watcher, gamer, and home chef by night and by the day I am a coder and aspiring UX Designer! In the past, I worked professionally as an Operations Manager doing a lot of process troubleshooting with the IT and Data teams, while also feeding my music blog.<br/> Soon I realized that coding is a more rewarding and interesting job for me, and decided to switch. Thanks to the internet and an intensive year long web development course at DCI Berlin, funded by the German government, I got the privilege and the opportunity to learn with many others like me, and learn from many others before me. On this Github, you will find many (but not the only) projects I have created in my coding journey.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifewave174&label=Profile%20views&color=0e75b6&style=flat" alt="lifewave174" /> </p>
 
-- 🔭 I’m currently working on a **Crud App with Redux**
+- 🔭 I’m currently working on a **Crud App with Redux** and am enrolled in **Google's UX Design course**
 
 - 🌱 I’m currently learning **Redux, Testing for React and eventually Typescript**
 

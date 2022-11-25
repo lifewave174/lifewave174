@@ -9,7 +9,7 @@
 
 <h4 align="left">How to reach me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/priya-shah-mirani-a73951197/(https://www.linkedin.com/in/priya-mirani-a73951197/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-shah-mirani-a73951197/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priya-mirani-a73951197/(https://www.linkedin.com/in/priya-mirani-a73951197/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-shah-mirani-a73951197/" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>

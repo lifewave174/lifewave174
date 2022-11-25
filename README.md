@@ -1,11 +1,7 @@
 <h1 align="left">Hey! I'm Priya Mirani</h1>
-<p align="left">I am passionate about Frontend Web Development, UX Design and Psychology. On this Github, you will find many (but not the only) projects I have created in my coding journey.</p>
+<p align="left">I am passionate about digital products and Psychology. On this Github, you will find many (but not the only) projects I have created in my coding journey.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifewave174&label=Profile%20views&color=0e75b6&style=flat" alt="lifewave174" /> </p>
-
-- 🔭 I’m currently working on a **Crud App with Redux** and am enrolled in **Google's UX Design course**
-
-- 🌱 I’m currently learning **Redux, Testing for React and eventually Typescript**
 
 - 💬 Ask me about **react, Javascript, css**
 
